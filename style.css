@@ -1,0 +1,22 @@
+
+.profile-pic {
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+  .godzilla {
+    margin: 30px;
+  }
+  
+.footer-link, .mb-3 {
+    color: black;
+    font-family: "Raleway", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
